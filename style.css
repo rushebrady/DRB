@@ -1,8 +1,9 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /**
- * Global font
+ * Globals
  */
+address {text-align:center;}
 font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 
 /**
@@ -35,6 +36,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  text-align:center;
 }
 
 
